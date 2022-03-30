@@ -6,5 +6,7 @@ public class TestCase002 {
 
     //testing for menus
 
+    // are the clickable
+
 
 }
